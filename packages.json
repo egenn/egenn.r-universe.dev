@@ -2,5 +2,9 @@
     {
         "package": "rtemis",
         "url": "https://github.com/egenn/rtemis"
+    },
+    {
+        "package": "music",
+        "url": "https://github.com/egenn/music"
     }
 ]
