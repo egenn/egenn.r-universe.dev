@@ -4,6 +4,10 @@
         "url": "https://github.com/egenn/rtemis"
     },
     {
+        "package": "rtemisbio",
+        "url": "https://github.com/egenn/rtemisbio"
+    },
+    {
         "package": "music",
         "url": "https://github.com/egenn/music"
     }
