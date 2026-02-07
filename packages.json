@@ -1,7 +1,7 @@
 [
     {
         "package": "rtemis",
-        "url": "https://github.com/egenn/rtemis"
+        "url": "https://github.com/rtemis-org/rtemis"
     },
     {
         "package": "music",
