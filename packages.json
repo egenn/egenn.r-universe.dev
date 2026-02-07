@@ -4,6 +4,14 @@
         "url": "https://github.com/rtemis-org/rtemis"
     },
     {
+        "package": "rtemisalpha",
+        "url": "https://github.com/rtemis-org/rtemis-legacy"
+    },
+    {
+        "package": "rtemisbio",
+        "url": "https://github.com/egenn/rtemisbio"
+    },
+    {
         "package": "music",
         "url": "https://github.com/egenn/music"
     }
