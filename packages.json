@@ -4,16 +4,8 @@
     "url": "https://github.com/rtemis-org/rtemis"
   },
   {
-    "package": "rtemis.utils",
-    "url": "https://github.com/rtemis-org/rtemis.utils"
-  },
-  {
     "package": "rtemisalpha",
     "url": "https://github.com/rtemis-org/rtemis-legacy"
-  },
-  {
-    "package": "rtemis.bio",
-    "url": "https://github.com/rtemis-org/rtemis.bio"
   },
   {
     "package": "music",
